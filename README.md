@@ -67,4 +67,8 @@ sudo tar -cJf apex-proot-arm64.tar.xz -C ~/ApexProot/apex-rootfs .
 
     TonyTFM / GN9 — GitHub Profil
 
+---
 
+## 📜 Lizenz
+
+Dieses Projekt steht unter der **GNU General Public License v2.0 (GPL-2.0)** — Details findest du in der [LICENSE](LICENSE)-Datei.
